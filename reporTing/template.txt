@@ -1,0 +1,28 @@
+1. Title Page
+Report Title
+Date
+Prepared for
+Prepared by
+TLP Classification: Indicate the TLP color (RED, AMBER, GREEN, WHITE) to specify the sharing boundaries of the report.
+
+2. Executive Summary
+Purpose of Investigation
+Key Findings
+Recommendations
+
+3. Introduction
+Background and Objectives: Briefly describe what prompted the investigation and what it aims to achieve.
+Scope: Outline the investigation's limits.
+Methodology and Data Sources: Summarize the methods and sources used.
+
+4. Key Findings and Analysis
+Findings: Present the critical information discovered during the investigation, categorized by topic or objective.
+Analysis: Analyze the findings, emphasizing their implications and significance.
+
+5. Recommendations
+Strategic and Operational Recommendations: Provide actionable advice based on the findings.
+Further Research: Highlight areas for additional investigation.
+
+6. Conclusion
+Recap the investigation's importance and the potential impact of the findings and recommendations.
+
