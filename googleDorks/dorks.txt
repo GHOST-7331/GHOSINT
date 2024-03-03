@@ -1,0 +1,53 @@
+Keywords
+  
+intitle:
+inurl:
+intext:
+define:
+site:
+phonebook:
+maps:
+book:
+info:
+movie:
+weather:
+related:
+link:
+
+Strings: 
+
+intext:"@gmail.com" | intext:"@yahoo.com" | intext:"@hotmail.com" filetype:xls | filetype:xlsx: Finds spreadsheets containing email addresses, useful for identifying potential leads or contacts.
+
+intitle:"index of" "contacts.xls": Finds contact lists that might have been inadvertently uploaded, containing names, emails, and phone numbers.
+
+site:linkedin.com/in "Current * * * at *": Targets LinkedIn profiles for current positions, helping to map out organizational structures or find specific individuals.
+
+inurl:"about.php?username=": Finds profiles or bio pages based on usernames, which can be pivotal in tracking digital footprints across platforms.
+
+intitle:"curriculum vitae" filetype:pdf: Searches for CVs or resumes in PDF format, which may include addresses, emails, phone numbers, and employment history.
+
+site:pastebin.com intext:"@gmail.com" | intext:"@yahoo.com": Finds email addresses that have been pasted on Pastebin, which can sometimes include leaked or hacked data.
+
+inurl:/profile.php?id=: Targets social media or forums that use a numerical ID system for user profiles, potentially uncovering user-generated content or PII.
+
+"Powered by vBulletin" inurl:"member.php?u=": Finds forum member profiles on vBulletin-powered forums, which can contain user information and posts.
+
+filetype:csv intext:"email,address,phone": Searches for CSV files containing email addresses, physical addresses, and phone numbers, commonly found in leaked or exported data sets.
+
+site:whois.domaintools.com "Name Server" "mail" | "dns" | "ns": Finds domain registration details, including email contacts associated with domain name servers, useful for tracking domain ownership or associated entities.
+
+ip:XXX.XXX.XXX.XXX: Searches for information related to a specific IP address, which can help in identifying hosting information, related domains, or geographic location.
+
+intitle:"index of" "backup" filetype:sql | filetype:db | filetype:env: Finds database or environment backups, which might contain sensitive information like usernames, passwords, or PII.
+
+inurl:"/cgi-bin/lookup.cgi?query=": Searches for pages that allow reverse lookup services, which can be used to find information associated with phone numbers, addresses, or emails.
+
+site:instagram.com "location" "username": Finds Instagram posts associated with specific locations and usernames, useful for geolocation-based research or tracking specific individuals.
+
+inurl:"usertag" site:twitter.com: Targets Twitter mentions or tags, which can be used to map social relationships or interactions.
+
+filetype:log "password" | "username": Searches for log files containing keywords "password" or "username," potentially uncovering credentials or account names.
+
+"Full name" + "Company name" + email filetype:xls | filetype:xlsx: Combines full name, company affiliation, and email format in spreadsheets, aiming to find professional contact lists.
+
+inurl:"guestbook" "email" "address" "phone": Targets guestbook pages, which may contain messages including email addresses, physical addresses, and phone numbers left by visitors.
