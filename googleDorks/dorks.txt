@@ -1,20 +1,36 @@
-Keywords
-  
-intitle:
-inurl:
-intext:
-define:
-site:
-phonebook:
-maps:
-book:
-info:
-movie:
-weather:
-related:
-link:
+Here's a breakdown of the most used Google Dork queries, which can be incredibly handy for digging up information. These queries let you do a bunch of stuff like finding specific files, spying on your competition, tracking down people, sniffing out SEO backlinks, piecing together email lists, and spotting web vulnerabilities.
 
-Strings: 
+Let's dive into the top Google Dorks and their uses:
+
+cache: This dork pulls up the cached version of any site. For example, cache:securitytrails.com.
+
+allintext: This one searches for specific text on any webpage. Like, allintext: hacking tools.
+
+allintitle: Similar to allintext, but it zeroes in on page titles containing your search terms. Example: allintitle:"Security Companies".
+
+allinurl: This fetches pages with URLs that include all your specified characters. Try allinurl:clientarea.
+
+filetype: If you're after specific file types, this is your go-to. To hunt for PDFs, you'd use email security filetype: pdf.
+
+inurl: Just like allinurl, but for when you've got just one keyword in mind. Example: inurl:admin.
+
+intitle: Great for keyword hunting in page titles. intitle:security tools will find titles starting with "security," with "tools" elsewhere on the page.
+
+inanchor: This one's for finding exact anchor texts in links. Example: inanchor:"cyber security".
+
+intext: Handy for locating pages with specific text or strings. For instance, intext:"safe internet".
+
+site: Shows all indexed URLs for a given domain or subdomain, like site:securitytrails.com.
+
+*: The wildcard, for when you're open to "anything" related to your search term. how to * a website could bring up various actions related to websites.
+
+|: The logical OR operator. Searching "security" "tips" finds pages with either "security," "tips," or both.
+
++: Use this to link words together, useful for finding pages that hit on multiple specifics. Example: security + trails.
+
+-: The minus sign helps filter out unwanted results. security -trails would ignore pages mentioning "trails."
+
+Combining these queries:
 
 intext:"@gmail.com" | intext:"@yahoo.com" | intext:"@hotmail.com" filetype:xls | filetype:xlsx: Finds spreadsheets containing email addresses, useful for identifying potential leads or contacts.
 
