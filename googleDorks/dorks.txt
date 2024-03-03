@@ -1,4 +1,5 @@
-Here's a breakdown of the most used Google Dork queries, which can be incredibly handy for digging up information. These queries let you do a bunch of stuff like finding specific files, spying on your competition, tracking down people, sniffing out SEO backlinks, piecing together email lists, and spotting web vulnerabilities.
+Here's a breakdown of the most used Google Dork queries, which can be incredibly handy for digging up information. These queries let you do a bunch of stuff like finding specific files, spying on your competition, 
+tracking down people, sniffing out SEO backlinks, piecing together email lists, and spotting web vulnerabilities.
 
 Let's dive into the top Google Dorks and their uses:
 
