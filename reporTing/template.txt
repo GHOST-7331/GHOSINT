@@ -26,3 +26,19 @@ Further Research: Highlight areas for additional investigation.
 6. Conclusion
 Recap the investigation's importance and the potential impact of the findings and recommendations.
 
+
+
+TLP Info: 
+
+The Traffic Light Protocol (TLP) is a set of designations used to ensure that sensitive information is shared with the appropriate audience. It employs four colors to indicate different levels of sensitivity and distribution restrictions:
+
+TLP:RED - Information labeled TLP:RED is highly sensitive and should only be disclosed to individuals within a specific group or organization. It should not be shared outside of the context in which it was originally disclosed, even if someone outside the group could benefit from the information.
+
+TLP:AMBER - TLP:AMBER information is meant for limited distribution, to be shared only with individuals who have a need to know and who understand their obligation to handle the information as sensitive. This might include participants in a specific project or members of a specific organization.
+
+TLP:GREEN - Information marked as TLP:GREEN is limited to community-wide information sharing. This means that the information can be shared within the broader community, but not with the general public.
+
+TLP:WHITE (or TLP: CLEAR in some variations) - TLP:WHITE information can be shared with the general public without restriction.
+
+
+
