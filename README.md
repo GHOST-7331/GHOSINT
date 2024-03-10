@@ -18,7 +18,7 @@ It combines best practices, strategic methodologies, and a structured approach t
 
 ## Getting Started
 
-To get started with `osintTemplate`, clone this repository to your local machine:
+To get started with `GHOSINT`, clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/GHOST-7331/osintTemplate.git
