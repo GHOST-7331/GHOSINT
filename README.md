@@ -1,6 +1,6 @@
 # OSINT Template
 
-Welcome to the `osintTemplate` repository, a comprehensive framework designed to streamline Open Source Intelligence (OSINT) operations. This repository houses a meticulously crafted template that guides users through the process of gathering, 
+Welcome to the `GHOSINT` repository, a comprehensive framework designed to streamline Open Source Intelligence (OSINT) operations. This repository houses a meticulously crafted template that guides users through the process of gathering, 
 analyzing, and reporting information collected from publicly available sources.
 
 ## Introduction
