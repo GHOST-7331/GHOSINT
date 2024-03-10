@@ -1,5 +1,3 @@
-# OSINT Template
-
 Welcome to the `GHOSINT` repository, a comprehensive framework designed to streamline Open Source Intelligence (OSINT) operations. This repository houses a meticulously crafted template that guides users through the process of gathering, 
 analyzing, and reporting information collected from publicly available sources.
 
@@ -21,4 +19,4 @@ It combines best practices, strategic methodologies, and a structured approach t
 To get started with `GHOSINT`, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/GHOST-7331/osintTemplate.git
+https://github.com/GHOST-7331/GHOSINT.git
