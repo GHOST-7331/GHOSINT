@@ -1,6 +1,3 @@
-# pip install Pillow
-# python exifGHOSINT.py /path/to/your/image.jpg
-
 # pip install Pillow exifread piexif
 # python exifGHOSINT.py /path/to/your/image.jpg
 
