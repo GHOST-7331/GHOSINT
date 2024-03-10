@@ -1,4 +1,3 @@
-
 # I developed this script due to my preference for an alternative to PowerShell's method of downloading files. Consequently, I crafted a Python script to facilitate file downloads from the web.
 # pip install requests
 
