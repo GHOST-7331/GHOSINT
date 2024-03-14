@@ -48,26 +48,43 @@ def main_menu():
         choice = int(input("Enter the number of the tool you want to use: "))
         if choice == 1:
             tool_1_function()
-        elif choice == 5:  # This is where we handle the option for tool 5
+        elif choice == 2: 
+            tool_2_function()
+        elif choice == 3:
+            tool_3_function()
+        elif choice == 4:
+            tool_4_function()
+        elif choice == 5:
             tool_5_function()
+        elif choice == 6:
+            tool_6_function()
+        elif choice == 7:
+            tool_7_function()
+        elif choice == 8:
+            tool_8_function()
+        elif choice == 9:
+            tool_9_function()
+        elif choice == 10:
+            tool_10_function()
+        elif choice == 11:
+            tool_11_function()
+        elif choice == 12:
+            tool_12_function()
+        elif choice == 13:
+            tool_13_function()
+        elif choice == 14:
+            tool_14_function()
         elif 1 < choice <= len(tool_descriptions):
             print(f"You selected Tool {choice} - {tool_descriptions[choice-1]}")
-            # Placeholder for other tool function calls
-            # You would add similar conditions here for other tools, for example:
-            # if choice == 2: tool_2_function()
         else:
             print("Invalid choice, please select a valid number.")
     except ValueError:
         print("Please enter a valid number.")
 
 
-def get_exif_data(image_path):
-    """
-    Extracts EXIF data from an image file.
 
-    :param image_path: Path to the image file
-    :return: A dictionary of EXIF data if available, otherwise an error message
-    """
+def get_exif_data(image_path):
+ 
     try:
         image = Image.open(image_path)
         info = image._getexif()
@@ -87,11 +104,6 @@ def get_exif_data(image_path):
         return f"Error opening file at '{image_path}'. Check if the file exists and the path is correct."
 
 def print_specific_exif_data(exif_data):
-    """
-    Prints specified fields of EXIF data.
-
-    :param exif_data: Dictionary containing EXIF data
-    """
     desired_fields = [
         "Make", "Model", "Orientation", "DateTimeOriginal", "DateTimeDigitized",
         "ShutterSpeedValue", "ApertureValue", "BrightnessValue", "ExposureBiasValue",
@@ -102,6 +114,7 @@ def print_specific_exif_data(exif_data):
     print("EXIF Data:")
     for field in desired_fields:
         print(f"{field}: {exif_data.get(field, 'Not available')}")
+
 
 def tool_1_function():
     """
@@ -117,10 +130,50 @@ def tool_1_function():
     else:
         print(result)  # Prints the error message from get_exif_data
 
+def tool_2_function():
+    print("https://hunter.io")
+
+def tool_3_function():
+    print("https://hunter.io")
+
+def tool_3_function():
+    print("https://hunter.io")
+
+def tool_4_function():
+    print("https://hunter.io")
+
 def tool_5_function():
+    print("https://whatsmyname.app/")
+    print("test")    
+
+def tool_6_function():
+    print("https://hunter.io")
+
+def tool_7_function():
+    print("https://hunter.io")    
+
+def tool_8_function():
+    print("https://hunter.io")
+
+def tool_9_function():
+    print("https://hunter.io")
+
+def tool_10_function():
+    print("https://hunter.io")
+
+def tool_11_function():
+    print("https://hunter.io")
+
+def tool_12_function():
+    print("https://hunter.io")
+
+def tool_13_function():
     print("https://whatsmyname.app/")
     print("test")
 
+def tool_14_function():
+    print("https://whatsmyname.app/")
+    print("test")
 
 
 if __name__ == "__main__":
