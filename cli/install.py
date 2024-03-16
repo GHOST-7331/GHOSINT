@@ -7,6 +7,7 @@ def install_common_requirements():
     """
     packages = [
         "Pillow",
+        "tqdm",
         "requests",
         "tqdm",
         "beautifulsoup4",  # Note: bs4 is an import name, the package is beautifulsoup4
