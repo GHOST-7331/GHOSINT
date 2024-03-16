@@ -16,6 +16,9 @@ def display_logo():
         \/       \/         \/        \/             \/         
     """)
 
+    print("Assembler: Ghost, crafted by Tyler Belmonte")
+    print("Tool Creds: PhoneInfoga:Sundowndev")
+
 def main_menu():
     print("Welcome to GHOSINT")
     print("Below is a list of tools available. Please select one by entering its number:")
