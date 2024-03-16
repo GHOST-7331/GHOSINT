@@ -1,9 +1,34 @@
 import subprocess
 import os
 
+def install_common_requirements():
+    """
+    Install common Python packages required by both tools.
+    """
+    packages = [
+        "Pillow",
+        "requests",
+        "tqdm",
+        "beautifulsoup4",  # Note: bs4 is an import name, the package is beautifulsoup4
+        "html5lib",
+        "phonenumbers",
+        "argparse",
+        "urllib3",
+        "colorama>=0.4.1",
+        "certifi>=2019.6.16",
+        "PySocks>=1.7.0",
+        "requests>=2.22.0",
+        "requests-futures>=1.0.0",
+        "stem>=1.8.0",
+        "torrequest>=0.1.0",
+        "pandas>=1.0.0",
+        "openpyxl<=3.0.10"
+    ]
+    subprocess.run(["python3", "-m", "pip", "install"] + packages, check=True)
+
 def clone_and_install_requirements(git_url, dir_name):
     """
-    Clone the git repository into the specified directory and install the Python requirements.
+    Clone the git repository into the specified directory and install the Python requirements from its requirements.txt file.
     """
     if not os.path.exists(dir_name):
         print(f"{dir_name} not found. Cloning repository...")
@@ -16,6 +41,9 @@ def clone_and_install_requirements(git_url, dir_name):
         print(f"{dir_name} is already installed.")
 
 def main():
+    # Install common requirements first
+    install_common_requirements()
+
     # Configuration for Sherlock
     sherlock_git_url = "https://github.com/sherlock-project/sherlock.git"
     sherlock_dir_name = "sherlock"
