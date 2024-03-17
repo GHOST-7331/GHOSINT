@@ -147,7 +147,15 @@ def tool_4_function():
 
 def tool_5_function():
     print("https://whatsmyname.app/")
-    print("test")    
+    username = input("Please enter a username: ")  # Prompting for user input
+    
+    directory_path = "sherlock/sherlock"
+    script_name = "sherlock.py"  
+
+    try:
+        subprocess.run(f"cd {directory_path} && python3 {script_name} {username}", shell=True, check=True)
+    except subprocess.CalledProcessError as e:
+        print(f"An error occurred: {e}")
 
 def tool_6_function():
     print("https://hunter.io")
