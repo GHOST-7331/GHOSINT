@@ -146,7 +146,6 @@ def tool_4_function():
     print("https://hunter.io")
 
 def tool_5_function():
-    print("https://whatsmyname.app/")
     username = input("Please enter a username: ")  # Prompting for user input
     
     directory_path = "sherlock/sherlock"
