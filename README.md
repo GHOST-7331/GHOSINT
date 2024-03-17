@@ -19,4 +19,10 @@ It combines best practices, strategic methodologies, and a structured approach t
 To get started with `GHOSINT`, clone this repository to your local machine:
 
 ```bash
-https://github.com/GHOST-7331/GHOSINT.git
+git clone https://github.com/GHOST-7331/GHOSINT.git
+
+cd GHOSINT && cd cli
+
+python3 install.py
+
+python3 ghosint.py
