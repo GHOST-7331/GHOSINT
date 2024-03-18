@@ -140,14 +140,22 @@ def tool_3_function():
     print("https://hunter.io")
 
 def tool_3_function():
-    print("https://hunter.io")
+    phone = input("Please enter a phone-number with area code: ")  # Prompting for user input
+
+    directory_path = "PhoneInfoga"
+    script_name = "phoneinfoga.py"  
+
+    try:
+        subprocess.run(f"cd {directory_path} && python3 {script_name} -n {phone}", shell=True, check=True)
+    except subprocess.CalledProcessError as e:
+        print(f"An error occurred: {e}")
 
 def tool_4_function():
     print("https://hunter.io")
 
 def tool_5_function():
     username = input("Please enter a username: ")  # Prompting for user input
-    
+
     directory_path = "sherlock/sherlock"
     script_name = "sherlock.py"  
 
@@ -155,7 +163,7 @@ def tool_5_function():
         subprocess.run(f"cd {directory_path} && python3 {script_name} {username}", shell=True, check=True)
     except subprocess.CalledProcessError as e:
         print(f"An error occurred: {e}")
-
+    
 def tool_6_function():
     print("https://hunter.io")
 
