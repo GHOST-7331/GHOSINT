@@ -36,6 +36,26 @@ USERNAMES:
 - [ThatsThem](https://thatsthem.com/)
 - [DeHashed](https://dehashed.com/)
 
+# Email Investigation Tools
+
+A collection of tools useful for email investigations and related OSINT work.
+
+## Email Search and Verification Tools
+
+- [Hunter](https://hunter.io/)
+- [ThatsThem Reverse Email Lookup](https://thatsthem.com/reverse-email-lookup)
+- [VoilaNorbert](https://www.voilanorbert.com/)
+- [Spokeo Email Search](https://www.spokeo.com/email-search)
+- [theHarvester](https://github.com/laramies/theHarvester) - A tool for gathering e-mail accounts, subdomain names, virtual hosts, open ports/ banners, and employee names from different public sources (including search engines and PGP key servers).
+
+## Email Permutation and Analysis Tools
+
+- [Email Permutator](http://metricsparrow.com/toolkit/email-permutator/) - Generate a list of potential email addresses based on name and domain.
+- [Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx) - Analyze email headers to trace the original sending IP address and diagnose delivery issues.
+
+
+
+
 
 
 
