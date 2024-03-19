@@ -1,4 +1,4 @@
-METHODOLOGY:
+# METHODOLOGY
 
 My methodology for conducting an OSINT investigation is uniquely tailored and diverges significantly from conventional 
 approaches. I prioritize the exhaustive accumulation of information about the target, to extract as much data as possible. 
@@ -28,7 +28,7 @@ Email Addresses: Primary and secondary email accounts associated with the indivi
 Associates: Names and details of known associates, friends, family members, or business partners.
 
 
-USERNAMES:
+# USERNAMES
 
 - [What's My Name?](https://whatsmyname.app/)
 - [Check Usernames](https://checkusernames.com/)
