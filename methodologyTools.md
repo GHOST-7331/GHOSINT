@@ -1,4 +1,4 @@
-# METHODOLOGY
+# Methodology 
 
 My methodology for conducting an OSINT investigation is uniquely tailored and diverges significantly from conventional 
 approaches. I prioritize the exhaustive accumulation of information about the target, to extract as much data as possible. 
@@ -28,7 +28,7 @@ Email Addresses: Primary and secondary email accounts associated with the indivi
 Associates: Names and details of known associates, friends, family members, or business partners.
 
 
-# USERNAMES
+# Usernames
 
 - [What's My Name?](https://whatsmyname.app/)
 - [Check Usernames](https://checkusernames.com/)
@@ -36,18 +36,14 @@ Associates: Names and details of known associates, friends, family members, or b
 - [ThatsThem](https://thatsthem.com/)
 - [DeHashed](https://dehashed.com/)
 
-# Email Investigation Tools
 
-A collection of tools useful for email investigations and related OSINT work.
-
-## Email Search and Verification Tools
+# Email Search and Verification Tools
 
 - [Hunter](https://hunter.io/)
 - [ThatsThem Reverse Email Lookup](https://thatsthem.com/reverse-email-lookup)
 - [VoilaNorbert](https://www.voilanorbert.com/)
 - [Spokeo Email Search](https://www.spokeo.com/email-search)
-- [theHarvester](https://github.com/laramies/theHarvester) - A tool for gathering e-mail accounts, subdomain names, virtual hosts, open ports/ banners, and employee names from different public sources (including search engines and PGP key servers).
-
+- 
 ## Email Permutation and Analysis Tools
 
 - [Email Permutator](http://metricsparrow.com/toolkit/email-permutator/) - Generate a list of potential email addresses based on name and domain.
