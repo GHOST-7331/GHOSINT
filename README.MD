@@ -14,15 +14,37 @@ It combines best practices, strategic methodologies, and a structured approach t
 - **Privacy and Security Tips**: Guidelines to maintain operational security (OpSec) and protect your digital footprint while conducting research.
 - **Case Studies**: Real-world examples demonstrating the application of the template in various scenarios.
 
-## Getting Started
+## Getting Started with GHOSINT
 
-To get started with `GHOSINT`, clone this repository to your local machine:
+Welcome to GHOSINT! To begin using GHOSINT, you have the option to use either the web version or the command-line interface (CLI). Please note that the CLI version is currently in beta and is far from complete, with only a few of the tools operational at this time. Detailed instructions and resources, including methodologies and tools, can be found at our [METHODOLOGY & TOOLS documentation](https://github.com/GHOST-7331/GHOSINT/blob/main/METHODOLOGY&TOOLS.MD).
 
-```bash
-git clone https://github.com/GHOST-7331/GHOSINT.git
+### Using the Web Version
 
-cd GHOSINT && cd cli
+For most users, especially those new to GHOSINT or preferring a graphical interface, we recommend starting with the web version. It's ready to use without the need for installation. Access it directly through the documentation link provided above.
 
-python3 install.py
+### Getting Started with the CLI (Beta)
 
-python3 ghosint.py
+For those who prefer using the command line or wish to test the beta version of our CLI, be aware that the CLI is currently in development and only a limited number of tools are functional. Follow these steps to get it up and running on your local machine:
+
+1. Clone the GHOSINT repository:
+    ```bash
+    git clone https://github.com/GHOST-7331/GHOSINT.git
+    ```
+
+2. Navigate to the CLI directory:
+    ```bash
+    cd GHOSINT/cli
+    ```
+
+3. Install the necessary dependencies:
+    ```bash
+    python3 install.py
+    ```
+
+4. Run GHOSINT via CLI:
+    ```bash
+    python3 ghosint.py
+    ```
+
+Given the CLI's beta status and limited functionality, please proceed with caution. Your feedback on this version will be invaluable for our ongoing development efforts.
+
