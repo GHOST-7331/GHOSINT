@@ -43,7 +43,7 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 - [ThatsThem Reverse Email Lookup](https://thatsthem.com/reverse-email-lookup)
 - [VoilaNorbert](https://www.voilanorbert.com/)
 - [Spokeo Email Search](https://www.spokeo.com/email-search)
-- 
+  
 ## Email Permutation and Analysis Tools
 
 - [Email Permutator](http://metricsparrow.com/toolkit/email-permutator/) - Generate a list of potential email addresses based on name and domain.
