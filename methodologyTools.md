@@ -1,9 +1,4 @@
-  ________  ___ ___ ________    _________.___ __________________ 
- /  _____/ /   |   \\_____  \  /   _____/|   |\      \__    ___/ 
-/   \  ___/    ~    \/   |   \ \_____  \ |   |/   |   \|    |    
-\    \_\  \    Y    /    |    \/        \|   /    |    \    |    
- \______  /\___|_  /\_______  /_______  /|___\____|__  /____|    
-        \/       \/         \/        \/             \/          
+METHODOLOGY:
 
 My methodology for conducting an OSINT investigation is uniquely tailored and diverges significantly from conventional 
 approaches. I prioritize the exhaustive accumulation of information about the target, to extract as much data as possible. 
@@ -33,24 +28,14 @@ Email Addresses: Primary and secondary email accounts associated with the indivi
 Associates: Names and details of known associates, friends, family members, or business partners.
 
 
-___________________   ________   ____       _________
-\__    ___/\_____  \  \_____  \ |    |     /   _____/
-  |    |    /   |   \  /   |   \|    |     \_____  \ 
-  |    |   /    |    \/    |    \    |___  /        \
-  |____|   \_______  /\_______  /_______ \/_______  /
-                   \/         \/        \/        \/ 
-
 USERNAMES:
 
-https://whatsmyname.app/
+- [What's My Name?](https://whatsmyname.app/)
+- [Check Usernames](https://checkusernames.com/)
+- [Namechk](https://namechk.com/)
+- [ThatsThem](https://thatsthem.com/)
+- [DeHashed](https://dehashed.com/)
 
-https://checkusernames.com/
-
-https://namechk.com/
-
-https://thatsthem.com/
-
-https://dehashed.com/
 
 
 
