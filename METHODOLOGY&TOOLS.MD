@@ -64,11 +64,9 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 
 - [Chatgpt Prompts](https://github.com/f/awesome-chatgpt-prompts)
 
-# CyberChef
+# CyberChef - CyberChef is a web-based "Swiss Army Knife" for encoding, decoding, encryption, and analyzing data, featuring a user-friendly interface for complex data manipulations.
 
-### CyberChef is a versatile web-based tool often described as "The Cyber Swiss Army Knife," designed for complex data manipulation tasks including encoding, decoding, encryption, data analysis, and cybersecurity operations, through a user-friendly interface that allows chaining of operations into "recipes."
-
--[CyberChef](https://gchq.github.io/CyberChef/)
+- [CyberChef](https://gchq.github.io/CyberChef/)
 
 
 
