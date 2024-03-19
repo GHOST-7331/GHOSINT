@@ -1,0 +1,13 @@
+ /  _____/ /   |   \\_____  \  /   _____/|   |\      \__    ___/ 
+/   \  ___/    ~    \/   |   \ \_____  \ |   |/   |   \|    |    
+\    \_\  \    Y    /    |    \/        \|   /    |    \    |    
+ \______  /\___|_  /\_______  /_______  /|___\____|__  /____|    
+        \/       \/         \/        \/             \/          
+
+My methodology for conducting an OSINT investigation is uniquely tailored and diverges significantly from conventional 
+approaches. I prioritize the exhaustive accumulation of information about the target, to extract as much data as possible. 
+This relentless pursuit ensures no detail is overlooked. After deploying a comprehensive suite of tools and gathering an extensive 
+dataset, the intricate process of data filtration begins. This stage is both an art and a science, demanding some experience and considerable 
+practice. It can be exceedingly time-consuming but is essential for distilling valuable insights from the amassed information. It's in this phase 
+that the magic happens: connecting the dots. By meticulously analyzing the filtered data, I start to identify and confirm relationships between disparate 
+pieces of information, piecing together a coherent narrative. This process transforms raw data into actionable intelligence, revealing hidden patterns and insights.
