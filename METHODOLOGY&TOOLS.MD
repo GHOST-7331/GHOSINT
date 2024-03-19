@@ -72,7 +72,7 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 # Automation Python Libraries
 
 
-- [AutomationPythonOsint](https://intel471.com/blog/python-libraries-for-osint-automation)
+- [Python Osint Automation](https://intel471.com/blog/python-libraries-for-osint-automation) - This link provides access to multiple Python libraries for automation in OSINT.
 
 
 
