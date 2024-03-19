@@ -69,6 +69,11 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 
 - [CyberChef](https://gchq.github.io/CyberChef/) - CyberChef is a web-based "Swiss Army Knife" for encoding, decoding, encryption, and analyzing data, featuring a user-friendly interface for complex data manipulations.
 
+# Automation Python Libraries
+
+
+- [AutomationPythonOsint](https://intel471.com/blog/python-libraries-for-osint-automation)
+
 
 
 
