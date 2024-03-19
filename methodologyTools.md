@@ -13,19 +13,19 @@ To ensure a comprehensive and effective OSINT investigation, it's pivotal to col
 from the outset. A well-organized and detailed approach not only streamlines the process but also enhances the 
 investigation's depth and accuracy. Consider incorporating the following fields to gather a broad spectrum of information:
 
-# Name: Full legal name and any known variations.
-# Phone Numbers: All known current and past telephone numbers.
-# Aliases: Any known pseudonyms, nicknames, or other aliases used.
-# Residential Addresses: Current and previous places of residence.
-# Web Presence: Personal websites, blogs, or other online publications.
-# Usernames: Online handles and usernames across various platforms and forums.
-# Employment History: Known employers and roles, including volunteer positions.
-# Photographs: Images that can help in identifying physical features or locations.
-# Social Media Profiles: Links to and details of profiles on social media platforms.
-# Educational Background: Institutions attended and degrees or certifications obtained.
-# Breach Records: Details of any data breaches involving the individual's personal information.
-# Email Addresses: Primary and secondary email accounts associated with the individual or entity.
-# Associates: Names and details of known associates, friends, family members, or business partners.
+## Name: Full legal name and any known variations.
+## Phone Numbers: All known current and past telephone numbers.
+## Aliases: Any known pseudonyms, nicknames, or other aliases used.
+## Residential Addresses: Current and previous places of residence.
+## Web Presence: Personal websites, blogs, or other online publications.
+## Usernames: Online handles and usernames across various platforms and forums.
+## Employment History: Known employers and roles, including volunteer positions.
+## Photographs: Images that can help in identifying physical features or locations.
+## Social Media Profiles: Links to and details of profiles on social media platforms.
+## Educational Background: Institutions attended and degrees or certifications obtained.
+## Breach Records: Details of any data breaches involving the individual's personal information.
+## Email Addresses: Primary and secondary email accounts associated with the individual or entity.
+## Associates: Names and details of known associates, friends, family members, or business partners.
 
 
 # Usernames
