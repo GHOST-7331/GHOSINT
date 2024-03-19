@@ -60,6 +60,10 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 - [IP2Location Demo](https://www.ip2location.com/demo/)
 - [AbuseIPDB](https://www.abuseipdb.com/)
 
+# ChatGPT Prompts
+
+- [Chatgpt Prompts](https://github.com/f/awesome-chatgpt-prompts)
+
 
 
 
