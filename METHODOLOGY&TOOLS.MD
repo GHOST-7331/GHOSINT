@@ -66,9 +66,8 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 
 # CyberChef
 
-#### CyberChef is a web-based "Swiss Army Knife" for encoding, decoding, encryption, and analyzing data, featuring a user-friendly interface for complex data manipulations.
 
-- [CyberChef](https://gchq.github.io/CyberChef/)
+- [CyberChef](https://gchq.github.io/CyberChef/) - CyberChef is a web-based "Swiss Army Knife" for encoding, decoding, encryption, and analyzing data, featuring a user-friendly interface for complex data manipulations.
 
 
 
