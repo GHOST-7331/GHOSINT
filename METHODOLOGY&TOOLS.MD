@@ -104,6 +104,10 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 - [Kvasir](https://www.kvasir.no) - Scandinavia
 - [StartPage](https://www.startpage.com) - Netherlands
 
+# Marine Traffic
+
+- [Marine Tracking Map](https://www.marinetraffic.com/en/ais/home/centerx:-73.1/centery:40.5/zoom:5) 
+
 
 # ChatGPT Prompts
 
