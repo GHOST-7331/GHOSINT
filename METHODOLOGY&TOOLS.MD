@@ -27,18 +27,13 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 ### Email Addresses: Primary and secondary email accounts associated with the individual or entity.
 ### Associates: Names and details of known associates, friends, family members, or business partners.
 
-
 # Usernames
 
-| Tool             | Website                                  |
-|------------------|------------------------------------------|
-| What's My Name?  | [Visit](https://whatsmyname.app/)        |
-| Check Usernames  | [Visit](https://checkusernames.com/)     |
-| Namechk          | [Visit](https://namechk.com/)            |
-| ThatsThem        | [Visit](https://thatsthem.com/)          |
-| DeHashed         | [Visit](https://dehashed.com/)           |
-
-
+- [What's My Name?](https://whatsmyname.app/)
+- [Check Usernames](https://checkusernames.com/)
+- [Namechk](https://namechk.com/)
+- [ThatsThem](https://thatsthem.com/)
+- [DeHashed](https://dehashed.com/)
 
 # Name Search
 
