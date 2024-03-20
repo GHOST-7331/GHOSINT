@@ -88,23 +88,26 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 - [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices. Discover how Internet intelligence can help you make better decisions.
 - [Wigle](https://wigle.net/) - Maps wireless networks globally, compiling data on Wi-Fi and cellular networks. 
 
-# Search Engines by Country 
+# Search Engines by Country
 
-- [Google](https://www.google.com) - Global
-- [Bing](https://www.bing.com) - Global
-- [Yandex](https://www.yandex.com) - Russia
-- [Baidu](https://www.baidu.com) - China
-- [Sogou](https://www.sogou.com) - China
-- [Naver](https://www.naver.com) - South Korea
-- [Daum](https://www.daum.net) - South Korea
-- [Yahoo! Japan](https://www.yahoo.co.jp) - Japan
-- [Seznam](https://www.seznam.cz) - Czech Republic
-- [Qwant](https://www.qwant.com) - France
-- [MetaGer](https://metager.org) - Germany
-- [Just Dial](https://www.justdial.com) - India
-- [Yamli](https://www.yamli.com) - Middle East
-- [Kvasir](https://www.kvasir.no) - Scandinavia
-- [StartPage](https://www.startpage.com) - Netherlands
+| Search Engine | URL                      | Country       |
+|---------------|--------------------------|---------------|
+| Google        | [Google](https://www.google.com) | Global        |
+| Bing          | [Bing](https://www.bing.com)     | Global        |
+| Yandex        | [Yandex](https://www.yandex.com) | Russia        |
+| Baidu         | [Baidu](https://www.baidu.com)   | China         |
+| Sogou         | [Sogou](https://www.sogou.com)   | China         |
+| Naver         | [Naver](https://www.naver.com)   | South Korea   |
+| Daum          | [Daum](https://www.daum.net)     | South Korea   |
+| Yahoo! Japan  | [Yahoo! Japan](https://www.yahoo.co.jp) | Japan      |
+| Seznam        | [Seznam](https://www.seznam.cz)   | Czech Republic|
+| Qwant         | [Qwant](https://www.qwant.com)   | France        |
+| MetaGer       | [MetaGer](https://metager.org)   | Germany       |
+| Just Dial     | [Just Dial](https://www.justdial.com) | India      |
+| Yamli         | [Yamli](https://www.yamli.com)   | Middle East   |
+| Kvasir        | [Kvasir](https://www.kvasir.no)  | Scandinavia   |
+| StartPage     | [StartPage](https://www.startpage.com) | Netherlands |
+
 
 # Threat Intel
 
@@ -140,10 +143,6 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 - [Python Osint Automation](https://intel471.com/blog/python-libraries-for-osint-automation) - This link provides access to multiple Python libraries for automation in OSINT.
 
 
-
-# Test
-
-| Name      | Age | Occupation   |
 
 
 
