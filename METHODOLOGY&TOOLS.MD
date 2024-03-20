@@ -36,6 +36,10 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 - [ThatsThem](https://thatsthem.com/)
 - [DeHashed](https://dehashed.com/)
 
+# Name Search
+
+- [Search by Name](https://www.cyberbackgroundchecks.com/name) - Simply lookup people by name to get details on current and past addresses, phone numbers, known associates, criminal records and more in the complete background report. 
+
 # Phone Numbers
 
 - [Reverse Phone Lookup](https://www.cyberbackgroundchecks.com/phone) - You will know for sure who the person is on the other end of the line.
