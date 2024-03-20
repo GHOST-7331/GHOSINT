@@ -1,4 +1,4 @@
-# Methodology 
+## Methodology 
 
 My methodology for conducting an OSINT investigation is uniquely tailored and diverges significantly from conventional 
 approaches. I prioritize the exhaustive accumulation of information about the target, to extract as much data as possible. 
@@ -27,7 +27,7 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 ### Email Addresses: Primary and secondary email accounts associated with the individual or entity.
 ### Associates: Names and details of known associates, friends, family members, or business partners.
 
-# Usernames
+## Usernames
 
 - [What's My Name?](https://whatsmyname.app/)
 - [Check Usernames](https://checkusernames.com/)
@@ -35,16 +35,16 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 - [ThatsThem](https://thatsthem.com/)
 - [DeHashed](https://dehashed.com/)
 
-# Name Search
+## Name Search
 
 - [Search by Name](https://www.cyberbackgroundchecks.com/name) - Simply lookup people by name to get details on current and past addresses, phone numbers, known associates, criminal records and more in the complete background report. 
 
-# Phone Numbers
+## Phone Numbers
 
 - [Reverse Phone Lookup](https://www.cyberbackgroundchecks.com/phone) - You will know for sure who the person is on the other end of the line.
 
 
-# Email Search and Verification Tools
+## Email Search and Verification Tools
 
 - [Search by Email](https://www.cyberbackgroundchecks.com/email) - That email address may look legitimate. But is it, really?
 - [Hunter](https://hunter.io/)
@@ -52,17 +52,17 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 - [VoilaNorbert](https://www.voilanorbert.com/)
 - [Spokeo Email Search](https://www.spokeo.com/email-search)
   
-## Email Permutation and Analysis Tools
+### Email Permutation and Analysis Tools
 
 - [Email Permutator](http://metricsparrow.com/toolkit/email-permutator/) - Generate a list of potential email addresses based on name and domain.
 - [Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx) - Analyze email headers to trace the original sending IP address and diagnose delivery issues.
 
-# Address Search
+## Address Search
 
 - [Search by Address](https://www.cyberbackgroundchecks.com/address) - Whether you’re looking for a person or business, you can find information on them starting with a search of their current or past address.
 
 
-# Web Domain and IP Address Analysis
+## Web Domain and IP Address Analysis
 
 - [Urlscan.io](https://urlscan.io/)
 - [Traceroute](https://hackertarget.com/online-traceroute/)
@@ -75,56 +75,56 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 - [AbuseIPDB](https://www.abuseipdb.com/)
 
 
-# Reverse Image Search
+## Reverse Image Search
 
 - [TinEye](https://tineye.com/) - TinEye is a reverse image search engine that finds where an image came from, how it's used, or if modified versions exist on the internet.
 
-# Web Archive
+## Web Archive
 
 - [Wayback Machine](http://web.archive.org/) - The Internet Archive Wayback Machine is a service that allows people to visit archived versions of Web sites.
 
-# Internet-Connected Devices
+## Internet-Connected Devices
 
 - [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices. Discover how Internet intelligence can help you make better decisions.
 - [Wigle](https://wigle.net/) - Maps wireless networks globally, compiling data on Wi-Fi and cellular networks. 
 
 
-# Search Engines by Country
+## Search Engines by Country
 
 | Global | Russia | China | South Korea | Japan | Czech Republic | France | Germany | India | Middle East | Scandinavia | Netherlands |
 |--------|--------|-------|-------------|-------|----------------|--------|---------|-------|-------------|-------------|-------------|
 | [Google](https://www.google.com), [Bing](https://www.bing.com) | [Yandex](https://www.yandex.com) | [Baidu](https://www.baidu.com), [Sogou](https://www.sogou.com) | [Naver](https://www.naver.com), [Daum](https://www.daum.net) | [Yahoo! Japan](https://www.yahoo.co.jp) | [Seznam](https://www.seznam.cz) | [Qwant](https://www.qwant.com) | [MetaGer](https://metager.org) | [Just Dial](https://www.justdial.com) | [Yamli](https://www.yamli.com) | [Kvasir](https://www.kvasir.no) | [StartPage](https://www.startpage.com) |
 
 
-# Threat Intel
+## Threat Intel
 
 - [APT Groups](https://attack.mitre.org/groups/) - Groups are activity clusters that are tracked by a common name in the security community.
 - [Mitre Attack Framework](https://attack.mitre.org/) - MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
 
-# National Sex Offender Public Website
+## National Sex Offender Public Website
 
 - [Scumbag Search](https://www.nsopw.gov/) - Search sex offender registries for all 50 states, the District of Columbia, U.S. Territories, and Indian Country.
 
-# Marine Traffic
+## Marine Traffic
 
 - [Marine Tracking Map](https://www.marinetraffic.com/en/ais/home/centerx:-73.1/centery:40.5/zoom:5)
 
-# Aircraft Traffic
+## Aircraft Traffic
 
 - [Aircraft Tracking Map](https://planefinder.net/)
 
 
-# ChatGPT Prompts
+## ChatGPT Prompts
 
 - [Chatgpt Prompts](https://github.com/f/awesome-chatgpt-prompts)
 
-# CyberChef
+## CyberChef
 
 
 - [CyberChef](https://gchq.github.io/CyberChef/) - CyberChef is a web-based "Swiss Army Knife" for encoding, decoding, encryption, and analyzing data, featuring a user-friendly interface for complex data manipulations.
 
 
-# Automation Python Libraries
+## Automation Python Libraries
 
 
 - [Python Osint Automation](https://intel471.com/blog/python-libraries-for-osint-automation) - This link provides access to multiple Python libraries for automation in OSINT.
