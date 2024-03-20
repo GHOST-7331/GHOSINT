@@ -45,9 +45,9 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 - [Reverse Phone Lookup](https://www.cyberbackgroundchecks.com/phone) - You will know for sure who the person is on the other end of the line.
 
 
-
 # Email Search and Verification Tools
 
+- [Search by Email](https://www.cyberbackgroundchecks.com/email) - That email address may look legitimate. But is it, really?
 - [Hunter](https://hunter.io/)
 - [ThatsThem Reverse Email Lookup](https://thatsthem.com/reverse-email-lookup)
 - [VoilaNorbert](https://www.voilanorbert.com/)
