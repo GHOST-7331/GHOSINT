@@ -78,6 +78,10 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 
 - [Wayback Machine](http://web.archive.org/) - The Internet Archive Wayback Machine is a service that allows people to visit archived versions of Web sites.
 
+# Internet-Connected Devices
+
+- [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices. Discover how Internet intelligence can help you make better decisions.
+
 # ChatGPT Prompts
 
 - [Chatgpt Prompts](https://github.com/f/awesome-chatgpt-prompts)
