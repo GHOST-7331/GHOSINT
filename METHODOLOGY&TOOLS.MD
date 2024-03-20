@@ -66,6 +66,7 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 # Web Domain and IP Address Analysis
 
 - [Urlscan.io](https://urlscan.io/)
+- [Traceroute](https://hackertarget.com/online-traceroute/)
 - [Domain Dossier](https://centralops.net/co/DomainDossier.aspx)
 - [ICANN Lookup](https://lookup.icann.org/en/lookup)
 - [DomainHelp](https://domainhelp.com/)
