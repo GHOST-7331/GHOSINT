@@ -140,6 +140,11 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 - [Python Osint Automation](https://intel471.com/blog/python-libraries-for-osint-automation) - This link provides access to multiple Python libraries for automation in OSINT.
 
 
+# Web Domain and IP Address Analysis
+
+[Urlscan.io](https://urlscan.io/) \| [Traceroute](https://hackertarget.com/online-traceroute/) \| [Domain Dossier](https://centralops.net/co/DomainDossier.aspx) \| [ICANN Lookup](https://lookup.icann.org/en/lookup) \| [DomainHelp](https://domainhelp.com/) \| [OSINT.sh DNS History](https://osint.sh/dnshistory/) \| [IP Quality Score](https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test) \| [IP2Location Demo](https://www.ip2location.com/demo/) \| [AbuseIPDB](https://www.abuseipdb.com/)
+
+
 
 
 
