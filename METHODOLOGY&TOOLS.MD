@@ -106,7 +106,11 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 
 # Marine Traffic
 
-- [Marine Tracking Map](https://www.marinetraffic.com/en/ais/home/centerx:-73.1/centery:40.5/zoom:5) 
+- [Marine Tracking Map](https://www.marinetraffic.com/en/ais/home/centerx:-73.1/centery:40.5/zoom:5)
+
+# Aircraft Traffic
+
+- [Aircraft Tracking Map](https://planefinder.net/)
 
 
 # ChatGPT Prompts
