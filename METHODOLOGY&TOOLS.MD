@@ -86,7 +86,7 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 
 - [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices. Discover how Internet intelligence can help you make better decisions.
 
-# Search Engines by Country for OSINT Investigations
+# Search Engines by Country 
 
 - [Google](https://www.google.com) - Global
 - [Bing](https://www.bing.com) - Global
