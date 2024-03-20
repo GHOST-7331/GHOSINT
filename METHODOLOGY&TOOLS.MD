@@ -81,22 +81,12 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 - [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices. Discover how Internet intelligence can help you make better decisions.
 - [Wigle](https://wigle.net/) - Maps wireless networks globally, compiling data on Wi-Fi and cellular networks. 
 
+
 # Search Engines by Country
 
-| Global          | [Google](https://www.google.com), [Bing](https://www.bing.com) |
-|-----------------|--------------------------------------------------------------|
-| Russia          | [Yandex](https://www.yandex.com)                              |
-| China           | [Baidu](https://www.baidu.com), [Sogou](https://www.sogou.com)|
-| South Korea     | [Naver](https://www.naver.com), [Daum](https://www.daum.net)  |
-| Japan           | [Yahoo! Japan](https://www.yahoo.co.jp)                       |
-| Czech Republic  | [Seznam](https://www.seznam.cz)                               |
-| France          | [Qwant](https://www.qwant.com)                                |
-| Germany         | [MetaGer](https://metager.org)                                |
-| India           | [Just Dial](https://www.justdial.com)                         |
-| Middle East     | [Yamli](https://www.yamli.com)                                |
-| Scandinavia     | [Kvasir](https://www.kvasir.no)                               |
-| Netherlands     | [StartPage](https://www.startpage.com)                        |
-
+| Global | Russia | China | South Korea | Japan | Czech Republic | France | Germany | India | Middle East | Scandinavia | Netherlands |
+|--------|--------|-------|-------------|-------|----------------|--------|---------|-------|-------------|-------------|-------------|
+| [Google](https://www.google.com), [Bing](https://www.bing.com) | [Yandex](https://www.yandex.com) | [Baidu](https://www.baidu.com), [Sogou](https://www.sogou.com) | [Naver](https://www.naver.com), [Daum](https://www.daum.net) | [Yahoo! Japan](https://www.yahoo.co.jp) | [Seznam](https://www.seznam.cz) | [Qwant](https://www.qwant.com) | [MetaGer](https://metager.org) | [Just Dial](https://www.justdial.com) | [Yamli](https://www.yamli.com) | [Kvasir](https://www.kvasir.no) | [StartPage](https://www.startpage.com) |
 
 
 # Threat Intel
@@ -132,11 +122,7 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 
 - [Python Osint Automation](https://intel471.com/blog/python-libraries-for-osint-automation) - This link provides access to multiple Python libraries for automation in OSINT.
 
-# Search Engines by Country
 
-| Global | Russia | China | South Korea | Japan | Czech Republic | France | Germany | India | Middle East | Scandinavia | Netherlands |
-|--------|--------|-------|-------------|-------|----------------|--------|---------|-------|-------------|-------------|-------------|
-| [Google](https://www.google.com), [Bing](https://www.bing.com) | [Yandex](https://www.yandex.com) | [Baidu](https://www.baidu.com), [Sogou](https://www.sogou.com) | [Naver](https://www.naver.com), [Daum](https://www.daum.net) | [Yahoo! Japan](https://www.yahoo.co.jp) | [Seznam](https://www.seznam.cz) | [Qwant](https://www.qwant.com) | [MetaGer](https://metager.org) | [Just Dial](https://www.justdial.com) | [Yamli](https://www.yamli.com) | [Kvasir](https://www.kvasir.no) | [StartPage](https://www.startpage.com) |
 
 
 
