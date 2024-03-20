@@ -111,6 +111,10 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 - [APT Groups](https://attack.mitre.org/groups/) - Groups are activity clusters that are tracked by a common name in the security community.
 - [Mitre Attack Framework](https://attack.mitre.org/) - MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
 
+# National Sex Offender Public Website
+
+- [Scumbag Search](https://www.nsopw.gov/) - Search sex offender registries for all 50 states, the District of Columbia, U.S. Territories, and Indian Country.
+
 # Marine Traffic
 
 - [Marine Tracking Map](https://www.marinetraffic.com/en/ais/home/centerx:-73.1/centery:40.5/zoom:5)
