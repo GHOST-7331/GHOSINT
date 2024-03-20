@@ -38,7 +38,7 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 
 # Phone Numbers
 
-- [reverse phone lookup](https://www.cyberbackgroundchecks.com/phone) - You will know for sure if the person on the other end of the line.
+- [reverse phone lookup](https://www.cyberbackgroundchecks.com/phone) - You will know for sure who the person is on the other end of the line.
 
 
 
