@@ -90,23 +90,20 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 
 # Search Engines by Country
 
-| Search Engine | URL                      | Country       |
-|---------------|--------------------------|---------------|
-| Google        | [Google](https://www.google.com) | Global        |
-| Bing          | [Bing](https://www.bing.com)     | Global        |
-| Yandex        | [Yandex](https://www.yandex.com) | Russia        |
-| Baidu         | [Baidu](https://www.baidu.com)   | China         |
-| Sogou         | [Sogou](https://www.sogou.com)   | China         |
-| Naver         | [Naver](https://www.naver.com)   | South Korea   |
-| Daum          | [Daum](https://www.daum.net)     | South Korea   |
-| Yahoo! Japan  | [Yahoo! Japan](https://www.yahoo.co.jp) | Japan      |
-| Seznam        | [Seznam](https://www.seznam.cz)   | Czech Republic|
-| Qwant         | [Qwant](https://www.qwant.com)   | France        |
-| MetaGer       | [MetaGer](https://metager.org)   | Germany       |
-| Just Dial     | [Just Dial](https://www.justdial.com) | India      |
-| Yamli         | [Yamli](https://www.yamli.com)   | Middle East   |
-| Kvasir        | [Kvasir](https://www.kvasir.no)  | Scandinavia   |
-| StartPage     | [StartPage](https://www.startpage.com) | Netherlands |
+| Global          | [Google](https://www.google.com), [Bing](https://www.bing.com) |
+|-----------------|--------------------------------------------------------------|
+| Russia          | [Yandex](https://www.yandex.com)                              |
+| China           | [Baidu](https://www.baidu.com), [Sogou](https://www.sogou.com)|
+| South Korea     | [Naver](https://www.naver.com), [Daum](https://www.daum.net)  |
+| Japan           | [Yahoo! Japan](https://www.yahoo.co.jp)                       |
+| Czech Republic  | [Seznam](https://www.seznam.cz)                               |
+| France          | [Qwant](https://www.qwant.com)                                |
+| Germany         | [MetaGer](https://metager.org)                                |
+| India           | [Just Dial](https://www.justdial.com)                         |
+| Middle East     | [Yamli](https://www.yamli.com)                                |
+| Scandinavia     | [Kvasir](https://www.kvasir.no)                               |
+| Netherlands     | [StartPage](https://www.startpage.com)                        |
+
 
 
 # Threat Intel
