@@ -144,10 +144,7 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 # Test
 
 | Name      | Age | Occupation   |
-|-----------|-----|--------------|
-| John Doe  | 29  | Developer    |
-| Jane Smith| 34  | Data Analyst |
-| Bob Brown | 45  | Manager      |
+
 
 
 
