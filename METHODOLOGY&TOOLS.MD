@@ -86,6 +86,48 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 
 - [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices. Discover how Internet intelligence can help you make better decisions.
 
+# Essential Country-Specific Search Engines for OSINT Investigations
+
+### Global
+- **Google:** Widely used globally, with country-specific versions that tailor search results to the user's locale.
+- **Bing:** Offers localized content for various countries, providing an alternative perspective to Google.
+
+### Russia
+- **Yandex:** The largest search engine in Russia, offering in-depth local content, maps, and other services.
+
+### China
+- **Baidu:** The leading search engine in China, essential for searching Chinese-language content.
+- **Sogou:** Another popular search engine in China, known for its language and question answering features.
+
+### South Korea
+- **Naver:** South Korea's leading search engine, offering a variety of content including news, blogs, and Q&A.
+- **Daum:** Another major South Korean search engine, providing news, email, and forums.
+
+### Japan
+- **Yahoo! Japan:** Distinct from Yahoo used in other parts of the world, it's a crucial search engine for Japanese content.
+
+### Czech Republic
+- **Seznam:** A popular local search engine in the Czech Republic, providing news, email, maps, and more.
+
+### France
+- **Qwant:** A privacy-focused search engine based in France, known for not tracking its users.
+
+### Germany
+- **MetaGer:** A privacy-oriented search engine that aggregates results from various sources, based in Germany.
+
+### India
+- **Just Dial:** While not a traditional search engine, it's a leading local search service in India for finding businesses and services.
+
+### Middle East
+- **Yamli:** Focuses on Arabic content and includes a powerful tool for searching Arabic content using Latin characters.
+
+### Scandinavia
+- **Kvasir:** A popular search engine in Norway, providing localized content for the Scandinavian region.
+
+### Netherlands
+- **StartPage:** A privacy-centric search engine that provides Google search results with enhanced privacy, based in the Netherlands.
+
+
 # ChatGPT Prompts
 
 - [Chatgpt Prompts](https://github.com/f/awesome-chatgpt-prompts)
