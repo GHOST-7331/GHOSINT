@@ -132,6 +132,13 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 
 - [Python Osint Automation](https://intel471.com/blog/python-libraries-for-osint-automation) - This link provides access to multiple Python libraries for automation in OSINT.
 
+# Search Engines by Country
+
+| Global | Russia | China | South Korea | Japan | Czech Republic | France | Germany | India | Middle East | Scandinavia | Netherlands |
+|--------|--------|-------|-------------|-------|----------------|--------|---------|-------|-------------|-------------|-------------|
+| [Google](https://www.google.com), [Bing](https://www.bing.com) | [Yandex](https://www.yandex.com) | [Baidu](https://www.baidu.com), [Sogou](https://www.sogou.com) | [Naver](https://www.naver.com), [Daum](https://www.daum.net) | [Yahoo! Japan](https://www.yahoo.co.jp) | [Seznam](https://www.seznam.cz) | [Qwant](https://www.qwant.com) | [MetaGer](https://metager.org) | [Just Dial](https://www.justdial.com) | [Yamli](https://www.yamli.com) | [Kvasir](https://www.kvasir.no) | [StartPage](https://www.startpage.com) |
+
+
 
 
 
