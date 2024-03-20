@@ -106,6 +106,11 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 - [Kvasir](https://www.kvasir.no) - Scandinavia
 - [StartPage](https://www.startpage.com) - Netherlands
 
+# Threat Intel
+
+- [APT Groups](https://attack.mitre.org/groups/) - Groups are activity clusters that are tracked by a common name in the security community.
+- [Mitre Attack Framework](https://attack.mitre.org/) - MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
+
 # Marine Traffic
 
 - [Marine Tracking Map](https://www.marinetraffic.com/en/ais/home/centerx:-73.1/centery:40.5/zoom:5)
