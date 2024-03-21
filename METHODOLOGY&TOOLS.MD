@@ -74,6 +74,10 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 - [IP2Location Demo](https://www.ip2location.com/demo/)
 - [AbuseIPDB](https://www.abuseipdb.com/)
 
+## Business Records
+
+- [OpenCorporates](https://opencorporates.com/)
+- [State Business Records](https://github.com/GHOST-7331/GHOSINT/blob/main/STATERECORDSEARCH.MD)
 
 ## Reverse Image Search
 
