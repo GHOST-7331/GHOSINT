@@ -79,6 +79,10 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 - [OpenCorporates](https://opencorporates.com/)
 - [State Business Records](https://github.com/GHOST-7331/GHOSINT/blob/main/STATERECORDSEARCH.MD)
 
+## Data Breach
+
+- [Been Pwned?](https://haveibeenpwned.com/) - Check if your email address is in a data breach 
+
 ## Reverse Image Search
 
 - [TinEye](https://tineye.com/) - TinEye is a reverse image search engine that finds where an image came from, how it's used, or if modified versions exist on the internet.
