@@ -15,6 +15,7 @@
 ## Phone Numbers
 
 - [Reverse Phone Lookup](https://www.cyberbackgroundchecks.com/phone) - You will know for sure who the person is on the other end of the line.
+- [IntelTechniques Telephone](https://inteltechniques.com/tools/Telephone.html) - Telephone numbers search tool.
 
 ## Social Media
 
