@@ -108,6 +108,7 @@
 ## Marine Traffic
 
 - [Marine Tracking Map](https://www.marinetraffic.com/en/ais/home/centerx:-73.1/centery:40.5/zoom:5)
+- [Submarine Tracker](https://www.marinevesseltraffic.com/submarine-vessels-tracking-map)
 
 ## Aircraft Traffic
 
