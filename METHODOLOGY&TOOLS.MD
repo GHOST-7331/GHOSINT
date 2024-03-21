@@ -95,9 +95,19 @@ investigation's depth and accuracy. Consider incorporating the following fields 
 
 ## Search Engines by Country
 
-| Global | Russia | China | South Korea | Japan | Czech Republic | France | Germany | India | Middle East | Scandinavia | Netherlands |
-|--------|--------|-------|-------------|-------|----------------|--------|---------|-------|-------------|-------------|-------------|
-| [Google](https://www.google.com), [Bing](https://www.bing.com) | [Yandex](https://www.yandex.com) | [Baidu](https://www.baidu.com), [Sogou](https://www.sogou.com) | [Naver](https://www.naver.com), [Daum](https://www.daum.net) | [Yahoo! Japan](https://www.yahoo.co.jp) | [Seznam](https://www.seznam.cz) | [Qwant](https://www.qwant.com) | [MetaGer](https://metager.org) | [Just Dial](https://www.justdial.com) | [Yamli](https://www.yamli.com) | [Kvasir](https://www.kvasir.no) | [StartPage](https://www.startpage.com) |
+- Global: [Google](https://www.google.com), [Bing](https://www.bing.com)
+- Russia: [Yandex](https://www.yandex.com)
+- China: [Baidu](https://www.baidu.com), [Sogou](https://www.sogou.com)
+- South Korea: [Naver](https://www.naver.com), [Daum](https://www.daum.net)
+- Japan: [Yahoo! Japan](https://www.yahoo.co.jp)
+- Czech Republic: [Seznam](https://www.seznam.cz)
+- France: [Qwant](https://www.qwant.com)
+- Germany: [MetaGer](https://metager.org)
+- India: [Just Dial](https://www.justdial.com)
+- Middle East: [Yamli](https://www.yamli.com)
+- Scandinavia: [Kvasir](https://www.kvasir.no)
+- Netherlands: [StartPage](https://www.startpage.com)
+
 
 
 ## Threat Intel
