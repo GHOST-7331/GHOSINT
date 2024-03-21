@@ -16,6 +16,11 @@
 
 - [Reverse Phone Lookup](https://www.cyberbackgroundchecks.com/phone) - You will know for sure who the person is on the other end of the line.
 
+## Social Media
+
+- [Social Searcher](https://www.social-searcher.com/)
+- [Hashatit](https://www.hashatit.com/) - The spelling in "The ultimate social media search engine" is correct.
+
 
 ## Email Search and Verification Tools
 
