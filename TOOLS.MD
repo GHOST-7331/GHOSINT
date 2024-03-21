@@ -42,7 +42,7 @@
 - [Domain Dossier](https://centralops.net/co/DomainDossier.aspx)
 - [ICANN Lookup](https://lookup.icann.org/en/lookup)
 - [DomainHelp](https://domainhelp.com/)
-- [OSINT.sh DNS History](https://osint.sh/dnshistory/)
+- [DNS History](https://osint.sh/dnshistory/)
 - [IP Quality Score](https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test)
 - [IP2Location Demo](https://www.ip2location.com/demo/)
 - [AbuseIPDB](https://www.abuseipdb.com/)
