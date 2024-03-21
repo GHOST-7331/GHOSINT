@@ -52,7 +52,7 @@
 - [OpenCorporates](https://opencorporates.com/)
 - [State Business Records](https://github.com/GHOST-7331/GHOSINT/blob/main/STATERECORDSEARCH.MD)
 
-## Data Breach
+## Breach Records
 
 - [Been Pwned?](https://haveibeenpwned.com/) - Check if your email address is in a data breach 
 
