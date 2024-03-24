@@ -1,7 +1,0 @@
-{
-  "apiKeys": {
-    "ServiceA": "YOUR_SERVICE_A_API_KEY",
-    "ServiceB": "YOUR_SERVICE_B_API_KEY",
-    "ServiceC": "YOUR_SERVICE_C_API_KEY"
-  }
-}
