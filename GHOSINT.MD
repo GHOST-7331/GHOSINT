@@ -109,6 +109,7 @@
 ## National Sex Offender Public Website
 
 - [Scumbag Search](https://www.nsopw.gov/) - Search sex offender registries for all 50 states, the District of Columbia, U.S. Territories, and Indian Country.
+- [Scumbag Maps](https://www.city-data.com/so/sexoffenders.html) - Registered sex offenders in the US
 
 ## Marine Traffic
 
