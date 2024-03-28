@@ -9,7 +9,6 @@ The OSINT Template is tailored for researchers, cybersecurity professionals, inv
 - **Structured Methodology**: A step-by-step guide to conducting OSINT research, from planning to execution and reporting.
 - **Tool Recommendations**: A curated list of tools and software that are essential for OSINT investigations, categorized by use case.
 - **Privacy and Security Tips**: Guidelines to maintain operational security (OpSec) and protect your digital footprint while conducting research.
-- **Case Studies**: Real-world examples demonstrating the application of the template in various scenarios.
 
 ## Getting Started with GHOSINT
 
